@@ -38,7 +38,3 @@ Meu objetivo é utilizar dados para apoiar decisões estratégicas e gerar impac
 - 📊 Dashboard Executivo de Vendas
 
 ---
-
-## 🚀 Objetivo Profissional
-
-Atuar como Anali
